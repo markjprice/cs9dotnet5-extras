@@ -33,7 +33,7 @@ In this article, I show:
 - How to write a connection string for SQL Server
 
 ## [Using a Raspberry Pi 400 with its native 32-bit OS](/raspberry-pi-os32/README.md)
-Raspberry Pi is a great value way to get into programming. It's default operating system is a 32-bit derivative of Debian previously known as Raspian and now known as Raspberry Pi OS.
+Raspberry Pi is a great value way to get into programming. Its default operating system is a 32-bit derivative of Debian previously known as Raspian and now known as Raspberry Pi OS.
 
 In this article, I show:
 - How to install Microsoft Visual Studio Code
@@ -41,9 +41,10 @@ In this article, I show:
 - Explain the current limitations
 
 ## [Using a Raspberry Pi 400 with Ubuntu 64](/raspberry-pi-ubuntu64/README.md)
-Raspberry Pi is a great value way to get into programming. To develop on a 64-bit operating system I recommend creating a microSD card with Ubuntu Desktop 64.
+Raspberry Pi is a great value way to get into programming. To develop on a 64-bit operating system I recommend creating a microSD card with Ubuntu Desktop 64-bit version 20.10 code-named Groovy Gorilla.
 
 In this article, I show:
+- How to create an Ubuntu Desktop 64-bit boot microSD card
 - How to install Microsoft Visual Studio Code
 - How to install Microsoft .NET 5 SDK
 - Explain the current limitations
@@ -52,4 +53,4 @@ In this article, I show:
 What is the recommended naming convention for IDs? Let's find out!
 
 ## Apple Silicon, Visual Studio Code and .NET
-Microsoft is already hard at work to make Visual Studio Code and .NET run on Apple Silicon. I plan to buy a Mac mini with an M1 chip to try it out as soon as its available.
+Microsoft is already hard at work to make Visual Studio Code and .NET 5 run on Apple Silicon. I have bought a Mac mini with an M1 chip to try it out as soon as Microsoft releases compatible versions of their software.
