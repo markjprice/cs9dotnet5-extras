@@ -34,7 +34,7 @@ You can see operating system and .NET information by entering the `dotnet --info
 ![Raspberry Pi OS and Visual Studio Code](assets/raspberry-pi-os32-vscode.png)
 
 ## Limitations
-Currently the C# extension cannot provider IntelliSense as you type. This is because it uses the OmniSharp language service and that is not (yet) compatible with ARM. 
+Currently the C# extension cannot provide IntelliSense as you type. This is because it uses the OmniSharp language service and that is not (yet) compatible with ARM. 
 
 ![Incompatible C# extension](../raspberry-pi-ubuntu64/assets/cs-extension-incompatible.png)
 

@@ -69,16 +69,16 @@ Groovy Gorilla is the current version of Ubuntu and we are going to use the vers
 
 ![About Visual Studio Code](assets/vscode-arm64-raspi.png)
 
-8. Follow the book instructions to write code and see it run in the Terminal window of Visual Studio Code, as shown in the following screenshot:
+1. Follow the book instructions to write code, noting that it the syntax is color  formatted, and see it run in the Terminal window of Visual Studio Code, as shown in the following screenshot:
 
 ![Hello C# on Ubuntu](assets/hello-cs.png)
 
-8. Follow the book instructions to clone the book's GitHub repository, as shown in the following screenshot:
+1. Follow the book instructions to clone the book's GitHub repository so that you have solutions for all coding tasks and exercises, as shown in the following screenshot:
 
 ![Cloning the book's code repositiory](assets/cs-repo.png)
 
 ## Limitations
-Currently the C# extension cannot provider IntelliSense as you type. This is because it uses the OmniSharp language service and that is not (yet) compatible with ARM. 
+Currently the C# extension cannot provide IntelliSense as you type. This is because it uses the OmniSharp language service and that is not (yet) compatible with ARM. 
 
 ![Incompatible C# extension](assets/cs-extension-incompatible.png)
 
