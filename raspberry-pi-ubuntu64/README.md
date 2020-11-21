@@ -1,4 +1,4 @@
-# Using a Raspberry Pi 400 with Ubunutu Desktop 64-bit
+# Using a Raspberry Pi 400 with Ubuntu Desktop 64-bit
 
 ![Raspberry Pi 400 with Ubuntu Desktop 64-bit and Visual Studio Code](assets/raspberry-pi-vscode-groovy-gorilla.jpg)
 
@@ -7,7 +7,7 @@
 
 ![Raspberry Pi 400 revealing its innards](https://www.raspberrypi.org/homepage-9df4b/static/keyboard-lg-ea472ffb3ec4abfece72ef3d87ebb6d3.png)
 
-Since I like things to be as easy as possible, I ordered the $100 model with all the useful extras like power adapter, mouse, and HDMI cable. All I needed to add was a monitor so I also bought a cheap Lenovo LCD.
+Since I like things to be as easy as possible, I ordered the $99 model with all the useful extras like power adapter, mouse, and HDMI cable. All I needed to add was a monitor so I also bought a cheap Lenovo LCD.
 
 ## About the OS
 Raspberry Pi OS is the official supported operating system but it is 32-bit even though the CPU is a quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.8GHz and 4GB of RAM.

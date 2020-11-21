@@ -1,12 +1,15 @@
 # Extra materials to support my book
+
+As well as the primary [GitHub repository for my book](https://github.com/markjprice/cs9dotnet5), I have created this repo to add extra materials.
+
 ## C# 9 and .NET 5 - Modern Cross-Platform Development
 Slide decks for teachers using the book, supporting topics related to the book, and early drafts of topics for future editions.
 
 ## [Slide Decks](/slide-decks/README.md)
-I plan to create Powerpoint slide decks for each chapter that can be used in the classroom or delivered remotely online.
+I plan to create PowerPoint slide decks for each chapter that can be used in the classroom or delivered remotely online.
 
 ## [Using Microsoft Visual Studio 2019 on Windows](/vs2019-windows/README.md)
-Some people are not ready to embrace cross-platform development using Visual Studio Code. The unfamiliar is scary. 
+Some people are not ready to embrace cross-platform development using Visual Studio Code. 
 
 In this article, I show:
 - How to install Microsoft Visual Studio 2019 on Windows
@@ -14,7 +17,7 @@ In this article, I show:
 - How to use solutions to combine multiple projects
 
 ## [Using Microsoft Visual Studio 2019 on macOS](/vs2019-macos/README.md)
-Some people are not ready to embrace cross-platform development using Visual Studio Code. The unfamiliar is scary. 
+Some people are not ready to embrace cross-platform development using Visual Studio Code. 
 
 In this article, I show:
 - How to install Microsoft Visual Studio 2019 on macOS
