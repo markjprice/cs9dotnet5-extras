@@ -56,5 +56,10 @@ In this article, I show:
 ## [ID or Id?](/ID-or-Id/README.md)
 What is the recommended naming convention for IDs? Let's find out!
 
-## Apple Silicon, Visual Studio Code and .NET
+## [Apple Silicon](/apple-silicon/README.md)
 Microsoft is already hard at work to make Visual Studio Code and .NET 5 run on Apple Silicon. I have bought a Mac mini with an M1 chip to try it out as soon as Microsoft releases compatible versions of their software.
+
+## [Understanding ASP.NET Core Architecture](/aspnetcore-architecture/README.md)
+In this article, I will review the architecture of ASP.NET Core in more depth than was possible in the published book, including answering the following common questions:
+- What is the difference between Program.cs and Startup.cs? Why do I need both? Where should I put code that runs when the website initializes? 
+- How do dependency services work? 
