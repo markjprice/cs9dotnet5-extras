@@ -84,7 +84,7 @@ cd Downloads
 sudo tar -zxf dotnet-sdk-5.0.100-linux-arm64.tar.gz -C ~/dotnet
 ```
 
-Note: If you are new to `tar`, `z` means use gzip format, `x` means extract, `f` means work with a file. You might to add `v` which means verbose, so you can see the contents as they get extracted. The -C flag means change to the specified folder to extract into.
+Note: If you are new to `tar`, `z` means use gzip format, `x` means extract, `f` means work with a file. You might want to add `v` which means verbose, so you can see the contents as they get extracted. The `-C` flag means change to the specified folder to extract into.
 
 6. Change to the `dotnet` folder, as shown in the following commands:
 ```
@@ -150,12 +150,13 @@ export PATH=$PATH:$HOME/dotnet
 
 1. At the bottom of the *dash*, click the **Show Applications** icon.
 2. In the **Type to search** box, enter `code`.
-3. Click Visual Studio Code, and then navigate to **Help** | **About**, as shown in the following screenshot:
+3. Click **Visual Studio Code**, wait for it to start, and then navigate to **Help** | **About**, as shown in the following screenshot:
 
 ![About Visual Studio Code](assets/vscode-arm64-raspi.png)
 
-4. In the *dash*, right-click Visual Studio Code and choose **Add to Favorities**.
-5. Follow the book instructions to write code, noting that it the syntax is color  formatted, and see it run in the Terminal window of Visual Studio Code, as shown in the following screenshot:
+4. In the *dash*, right-click **Visual Studio Code** and choose **Add to Favorities**.
+5. Follow the book instructions to install extensions including the C# extension.
+6. Write some code and note that the language syntax is color formatted although you will not get IntelliSense help as you type (see the Limitations section below), and see it run in the Terminal window of Visual Studio Code, as shown in the following screenshot:
 
 ![Hello C# on Ubuntu](assets/hello-cs.png)
 
