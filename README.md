@@ -33,7 +33,9 @@ In this article, I show:
 - How to write a connection string for SQL Server
 
 ## [Using a Raspberry Pi 400 with its native 32-bit OS](/raspberry-pi-os32/README.md)
-Raspberry Pi is a great value way to get into programming. Its default operating system is a 32-bit derivative of Debian previously known as Raspian and now known as Raspberry Pi OS.
+Raspberry Pi is a great value way to get into programming because Visual Studio Code on the Raspberry Pi is officially supported by the development team. 
+
+Its default operating system is a 32-bit derivative of Debian previously known as Raspian and now known as Raspberry Pi OS. 
 
 In this article, I show:
 - How to install Microsoft Visual Studio Code
@@ -41,7 +43,9 @@ In this article, I show:
 - Explain the current limitations
 
 ## [Using a Raspberry Pi 400 with Ubuntu 64](/raspberry-pi-ubuntu64/README.md)
-Raspberry Pi is a great value way to get into programming. To develop on a 64-bit operating system I recommend creating a microSD card with Ubuntu Desktop 64-bit version 20.10 code-named Groovy Gorilla.
+Raspberry Pi is a great value way to get into programming because Visual Studio Code on the Raspberry Pi is officially supported by the development team. 
+
+To develop on a 64-bit operating system I recommend creating a microSD card with Ubuntu Desktop 64-bit version 20.10 code-named Groovy Gorilla.
 
 In this article, I show:
 - How to create an Ubuntu Desktop 64-bit boot microSD card

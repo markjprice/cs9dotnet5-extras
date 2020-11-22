@@ -18,16 +18,18 @@ After connecting everything, Raspberry Pi OS starts and walks you through settin
 ## Installing Microsoft Visual Studio Code
 1. Start the Chromium browser.
 2. Navigate to https://code.visualstudio.com/download
-3. Raspberry Pi OS is based on Debian and is 32-bit, so underneath the main icons for Linux, in the `.deb` row, click the ARM button, as shown in the following screenshot:
+3. Raspberry Pi OS is based on Debian and is 32-bit, so underneath the main icons for Linux, in the **.deb** row, click the **ARM** button, as shown in the following screenshot:
 
 ![Download icon for Debian 32-bit](assets/download-vs-code-debian-32-bit.png)
 
 4. Run the downloaded file.
-5. 
 
 ## Coding with Visual Studio Code
 
-If you follow the instrcutions in my book then you will create a folder named Code in your working folder and then create subfolders for each chapter.
+1. From the desktop, click the Raspberry icon in the top-left corner.
+2. Navigate to **Accessories** | **Visual Studio Code**.
+
+If you follow the instructions in my book then you will create a folder named Code in your working folder and then create subfolders for each chapter.
 
 You can see operating system and .NET information by entering the `dotnet --info` command in Terminal, as shown in the following screenshot:
 
