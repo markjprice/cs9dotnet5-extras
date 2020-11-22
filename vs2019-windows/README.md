@@ -14,7 +14,7 @@ I recommend the latest version of Windows 10 although Microsoft Visual Studio 20
 
 ![Download Microsoft Visual Studio 2019 Community Edition](assets/download-windows-visual-studio-2019.png)
 
-4. Select x, y, and z.
+4. In the **Visual Studio Installer**, select the **Workloads** tab, and then (at a minimum) select the following workloads: ASP.NET and web development, .NET desktop development, Universal Windows Platform development, and .NET Core cross-platform development.
 
 ## Creating Console Apps using Visual Studio 2019
 
@@ -36,8 +36,8 @@ Follow these steps to create a Console App using Visual Studio 2019.
 
 ![Creating the HelloCS project](assets/create-hellocs-project.png)
 
-6. In **Solution Explorer**, open the project file.
-7. By default, 16.8 uses .NET Core 3.1, as shown in the following markup:
+6. In **Solution Explorer**, open the project file, for example, `HelloCS.csproj`.
+7. Visual Studio 2019 version 16.8 Console App template sets the project target framework to .NET Core 3.1, as shown in the following markup:
 ```
 <Project Sdk="Microsoft.NET.Sdk">
 
@@ -60,7 +60,7 @@ Follow these steps to create a Console App using Visual Studio 2019.
 </Project>
 ```
 
-Note: Microsoft says that version 16.9 will target .NET 5.0 by default so you will not have to do this manually.
+Note: Microsoft says that Visual Studio 2019 version 16.9 will target .NET 5.0 by default so you will not have to do this manually.
 
 7. Save changes and close the project file.
 8. To run a Console App project, navigate to **Debug** | **Start Without Debugging**, as shown in the following screenshot:
@@ -71,9 +71,9 @@ Note: Microsoft says that version 16.9 will target .NET 5.0 by default so you wi
 
 Visual Studio Code uses workspaces to work on multiple projects at the same time. (It can also use solution files but these are Microsoft-specific. Workspaces are more general so work with non-Microsoft technologies.)
 
-Visual Studio 2019 uses solution files to work on multiple projects at the same time. These are created when you create a new project. 
+Visual Studio 2019 uses solution files to work on multiple projects at the same time. One is created when you create a new project. 
 
-Once you have a solution with one project, you can add more projects to the solution by navigating to **File** | **Add** | **New Project...** or **Existing Project...**, as shown in the following screenshot:
+Instead of creating a new solution with each new project, you can add more projects to the existing solution by navigating to **File** | **Add** | **New Project...** or **Existing Project...**, as shown in the following screenshot:
 
 ![Adding projects to a solution](assets/add-project-to-solution.png)
 
